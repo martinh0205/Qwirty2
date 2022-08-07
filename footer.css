@@ -1,0 +1,46 @@
+footer {
+    display:flex ;
+    flex-direction: row;
+    background-color: rgb(15, 20, 99);
+    padding: 18px;
+    font-family: "Dosis";
+    justify-content: center;
+
+
+}
+
+section {
+    margin-right:18px ;
+    display:flex ;
+    flex-direction: column;
+    text-align: left;
+    align-content: center;
+}
+
+h2 {
+    color: white;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    letter-spacing: 2px;
+    padding-right: 30px;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    padding-right: 5px;
+    /* border-bottom: 1px solid; */
+    /* text-decoration: underline; */
+    ;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+    display:flex;
+    flex-direction: column;
+    border-bottom: 5px;
+    
+}
+
+

@@ -1,0 +1,26 @@
+.categories {
+    flex-basis: 256px;
+    display:flex;
+    flex-direction: column;
+    flex-shrink: 0.2;
+    padding: 1rem;
+    
+}
+
+.link {
+    text-decoration: none;
+    font-family: "Dosis";
+    font: 40px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    background-color: #44b;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    box-shadow: 3px 3px #888888;
+
+}
+
+a:hover {
+    background-color: rgb(21, 21, 50);
+  }
